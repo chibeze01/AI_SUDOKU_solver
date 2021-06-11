@@ -10,5 +10,5 @@ for a puzzel like the one below:
 <img src="images/sudoku.png" style="width: 50%;"/>
 
 
-we would expect the computer to do $ 9^(n)\ checks,\ where\ n\ is\ the\ number\ of\ empty\ cells\ $ With brute force this solution ma take years to come, which is musch clower than a human. With the ues of AI concepts, backtracking, constraints propagation and searching we are able to drastically redues the time taken to solve the sudoku in figure1.
+we would expect the computer to do $$ 9^{n}\ checks,\ where\ n\ is\ the\ number\ of\ empty\ cells\ $$ With brute force this solution ma take years to come, which is musch clower than a human. With the ues of AI concepts, backtracking, constraints propagation and searching we are able to drastically redues the time taken to solve the sudoku in figure1.
 
